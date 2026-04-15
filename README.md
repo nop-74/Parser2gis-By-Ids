@@ -38,6 +38,12 @@
 src="https://github.com/nop-74/Open-Server_6.5.0/blob/main/DW.png" title="скачать" /></a>
 <!-- End of banner code -->
 
+  #  ОПЛАТА ПО СПБ QR коду
+  ![Alt text](https://github.com/nop-74/parser-2-gis-offline-gdat/blob/main/pay.png)
+ #  после оплаты напишите мне для получения парсера  
+# [НАПИСАТЬ МНЕ В TELEGRAM](https://t.me/fradyrad)
+# [НАПИСАТЬ МНЕ В WHATSAPP ](https://wa.me/79511193576)
+
 
 
 

@@ -31,6 +31,13 @@
 
 ![Alt text](https://github.com/nop-74/Parser2gis-By-Ids/blob/main/IMG/_4.png)
 
+# СКАЧАТЬ ДЕМО ВЕРСИЮ
+
+<!-- Start of banner code -->
+<a href="https://github.com/nop-74/Parser2gis-By-Ids/releases/download/Parser2gisByIds-demo/Parser2gisByIds-demo.zip"><img 
+
+src="https://github.com/nop-74/Open-Server_6.5.0/blob/main/DW.png" title="скачать" /></a>
+<!-- End of banner code -->
 
 
 
